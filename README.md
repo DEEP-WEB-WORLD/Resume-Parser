@@ -1,2 +1,2 @@
 # Resume-Parser
-Resume Parser AI
+AI-powered Resume Parser using Python, NLP, and Streamlit
